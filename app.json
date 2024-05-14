@@ -3,13 +3,13 @@
   "description": "À𝖑è𝖝 𝕻ì𝖐ù Multi Device whatsapp bot",
   "logo": "https://telegra.ph/file/03fd14a9266797b4227cb.jpg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Mranjan101/anjanv2",
+  "repository": "https://github.com/Piku090909/GJJJI.git",
   "website": "",
-  "success_url": "https://github.com/Mranjan101/anjanv2",
+  "success_url": "https://github.com/Piku090909/GJJJI.git",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "put ur Anjanv2 session id",
+      "description": "put ur À𝖑è𝖝 𝕻ì𝖐ù session id",
       "required": true
     },
     "LOGS": {
@@ -19,22 +19,22 @@
      "AUDIO_DATA": {
       "description": "audio data , title;artist;image url",
       "required": "false",
-      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/U26K4xG.jpeg"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://telegra.ph/file/03fd14a9266797b4227cb.jpg"
      },
      "CAPTION": {
       "description": "enter your media caption",
       "required": "false",
-      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»"
     },
        "STICKER_DATA": {
-      "description": "Sticker pack name, eg : 〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+      "description": "Sticker pack name, eg : À𝖑è𝖝 𝕻ì𝖐ùː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»",
       "required": "false",
-      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»"
     },
        "BOT_INFO": {
       "description": "Bot info : botname;ownername;imageurl - image or video",
       "required": "false",
-      "value": "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»;https://i.imgur.com/7ZMfACG.mp4"
+      "value": "À𝖑è𝖝 𝕻ì𝖐ù ː͢»;À𝖑è𝖝 𝕻ì𝖐ù ː͢»;https://telegra.ph/file/03fd14a9266797b4227cb.jpg"
     },
      "ALWAYS_ONLINE": {
       "description": "Bot online online : true",
@@ -42,7 +42,7 @@
       "value": "false"
     },
     "SUDO": {
-      "description": "add your bot number here for run mr-anjan🦋",
+      "description": "add your bot number here for run À𝖑è𝖝 𝕻ì𝖐ù",
       "required": false
     },
     "WORK_TYPE": {
