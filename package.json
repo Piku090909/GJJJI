@@ -1,15 +1,15 @@
 {
   "name": "mranjan-V2",
   "version": "2.0.0",
-  "description": "mr-anjan simple multi device WhatsApp Bot.",
+  "description": "À𝖑è𝖝 𝕻ì𝖐ù simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
-    "start":  "pm2 start . --attach --name anjan"
+    "start":  "pm2 start . --attach --name À𝖑è𝖝 𝕻ì𝖐ù"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mranjan101/anjanv2.git"
+    "url": "git+https://github.com/Piku090909/GJJJI.git"
   },
   "keywords": [
     "bot",
@@ -22,9 +22,9 @@
   "developer": "ANJAN",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Mranjan101/anjanv2/issues"
+    "url": "https://github.com/Piku090909/GJJJI/issues"
   },
-  "homepage": "https://github.com/Mranjan101/anjanv2#readme",
+  "homepage": "https://github.com/Piku090909/GJJJI#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
