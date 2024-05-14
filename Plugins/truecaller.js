@@ -30,7 +30,7 @@ forwardingScore: 999,
       isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363239634100086@newsletter',
-                newsletterName: "〆͎𝐌𝐫-𝐚𝐧𝐣𝐚𝐧👀🦋 ː͢»",
+                newsletterName: "À𝖑è𝖝 𝕻ì𝖐ù ː͢»",
                 serverMessageId: -1
             }} }, {quoted: message })
 }catch(error){
